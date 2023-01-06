@@ -1,4 +1,4 @@
-# Desenvolvendo o Dio Bank
+# Desenvolvendo o JP Bank
 desenvolvido por [João Paulo Azevedo](https://github.com/JaumAzevedo)
 
 #### Projeto desenvolvido com React
